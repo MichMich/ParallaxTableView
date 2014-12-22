@@ -12,7 +12,7 @@
 
 ## Usage
 
-Just add a `ParallaxTableViewController.swift` to your project, and set the desired options. Please take a look at the `ExampleParallaxTableViewViewController.swift` for more info.
+Just add a subclass of `ParallaxTableViewController.swift` to your project, and set the desired options. Please take a look at the `ExampleParallaxTableViewViewController.swift` for more info.
 
 ## Disclaimer
 
