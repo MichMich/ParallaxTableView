@@ -8,7 +8,7 @@
 
 ## So what does it look like?
 
-![](https://raw.github.com/michmich/TableViewParallax/master/Screenshots/example.gif)
+![](https://raw.githubusercontent.com/MichMich/ParallaxTableView/master/Screenshots/example.gif)
 
 ## Usage
 
